@@ -1,29 +1,9 @@
 # rick_morty_api
 
-This template should help get you started developing with Vue 3 in Vite.
+Выполненое тестовое задание на вакансию Frontend-разработчик.
 
-## Recommended IDE Setup
+Test task includes pagination and filters for rick and motry charachters api.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Head hunter resume - https://hh.kz/resume/40f40b0eff0b4467720039ed1f626457553777
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Web dev Portfolio - https://abay-portfolio.vercel.app
